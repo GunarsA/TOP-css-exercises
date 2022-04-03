@@ -30,7 +30,7 @@ body {
 }
 
 .title {
-  /* text-align: center; */
+  text-align: center;
 }
 
 .information {
@@ -42,7 +42,6 @@ body {
 
 .information div {
   flex: 0 0 200px;
-  text-align: center;
 }
 
 .text {
